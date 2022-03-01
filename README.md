@@ -1,4 +1,11 @@
 # react-userscripts
+This is a fork with TailwindCSS support (and typescript out of the box).
+
+`git clone https://github.com/glatzl/react-userscripts.git && cd react-userscripts/userscript && npm install`
+Now open two terminals and run these commands separately
+`yarn watch:css`
+`yarn start`
+
 Develop a Greasemonkey/Tampermonkey script using React
 
 This repository contains a stub project for developing userscript extensions with react. It uses
